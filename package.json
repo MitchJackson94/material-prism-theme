@@ -1,0 +1,21 @@
+{
+  "name": "material-prism-theme",
+  "version": "0.1.0",
+  "description": "Material theme for PrismJS",
+  "main": "_material-prism.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MitchJackson94/material-prism-theme.git"
+  },
+  "keywords": [
+    "sass",
+    "prism",
+    "material"
+  ],
+  "author": "Mitch Jackson <me@mitchelljackson.co.uk>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/MitchJackson94/material-prism-theme/issues"
+  },
+  "homepage": "https://github.com/MitchJackson94/material-prism-theme"
+}
