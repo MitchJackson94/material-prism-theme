@@ -1,4 +1,4 @@
-# Respond
+# Material theme
 
 Material theme for PrismJS
 
