@@ -5,27 +5,27 @@
 
 $color-code:               #CED3DF;
 $color-code-background:    #212121;
-$color-code-punctuation:   #8ED4F7;
-$color-code-tag:           #E44E69;
-$color-code-selector:      #FACC60;
-$color-code-keyword:       #C3E984;
+$color-code-punctuation:   #89DDFF;
+$color-code-tag:           #F07178;
+$color-code-selector:      #FFCB6B;
+$color-code-keyword:       #C2E78C;
 
 $base-code-tab-size:       4;
 
 code[class*="language-"],
 pre[class*="language-"] {
-    color: #CED3DF;
+    color: $color-code;
     text-shadow: none;
     font-weight: bold;
-    font-size: 14px;
-    font-family: 'Office Code Pro Medium', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    font-size: 15px;
+    font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
     direction: ltr;
     text-align: left;
     white-space: pre;
     word-spacing: normal;
     word-break: normal;
     word-wrap: normal;
-    line-height: 1.5;
+    line-height: 1.6em;
 
     -moz-tab-size: $base-code-tab-size;
     -o-tab-size: $base-code-tab-size;
